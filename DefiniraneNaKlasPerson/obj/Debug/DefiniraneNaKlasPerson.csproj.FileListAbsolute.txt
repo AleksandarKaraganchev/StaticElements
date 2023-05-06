@@ -1,0 +1,8 @@
+D:\Програмиране\new tasks\StaticElementi\DefiniraneNaKlasPerson\bin\Debug\DefiniraneNaKlasPerson.exe.config
+D:\Програмиране\new tasks\StaticElementi\DefiniraneNaKlasPerson\bin\Debug\DefiniraneNaKlasPerson.exe
+D:\Програмиране\new tasks\StaticElementi\DefiniraneNaKlasPerson\bin\Debug\DefiniraneNaKlasPerson.pdb
+D:\Програмиране\new tasks\StaticElementi\DefiniraneNaKlasPerson\obj\Debug\DefiniraneNaKlasPerson.csproj.AssemblyReference.cache
+D:\Програмиране\new tasks\StaticElementi\DefiniraneNaKlasPerson\obj\Debug\DefiniraneNaKlasPerson.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\new tasks\StaticElementi\DefiniraneNaKlasPerson\obj\Debug\DefiniraneNaKlasPerson.csproj.CoreCompileInputs.cache
+D:\Програмиране\new tasks\StaticElementi\DefiniraneNaKlasPerson\obj\Debug\DefiniraneNaKlasPerson.exe
+D:\Програмиране\new tasks\StaticElementi\DefiniraneNaKlasPerson\obj\Debug\DefiniraneNaKlasPerson.pdb

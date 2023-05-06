@@ -1,0 +1,8 @@
+D:\Програмиране\new tasks\StaticElementi\ZaqvkaZaKoren\bin\Debug\ZaqvkaZaKoren.exe.config
+D:\Програмиране\new tasks\StaticElementi\ZaqvkaZaKoren\bin\Debug\ZaqvkaZaKoren.exe
+D:\Програмиране\new tasks\StaticElementi\ZaqvkaZaKoren\bin\Debug\ZaqvkaZaKoren.pdb
+D:\Програмиране\new tasks\StaticElementi\ZaqvkaZaKoren\obj\Debug\ZaqvkaZaKoren.csproj.AssemblyReference.cache
+D:\Програмиране\new tasks\StaticElementi\ZaqvkaZaKoren\obj\Debug\ZaqvkaZaKoren.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\new tasks\StaticElementi\ZaqvkaZaKoren\obj\Debug\ZaqvkaZaKoren.csproj.CoreCompileInputs.cache
+D:\Програмиране\new tasks\StaticElementi\ZaqvkaZaKoren\obj\Debug\ZaqvkaZaKoren.exe
+D:\Програмиране\new tasks\StaticElementi\ZaqvkaZaKoren\obj\Debug\ZaqvkaZaKoren.pdb

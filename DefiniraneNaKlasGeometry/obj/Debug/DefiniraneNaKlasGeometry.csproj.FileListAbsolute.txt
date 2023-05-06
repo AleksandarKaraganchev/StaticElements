@@ -1,0 +1,8 @@
+D:\Програмиране\new tasks\StaticElementi\DefiniraneNaKlasGeometry\bin\Debug\DefiniraneNaKlasGeometry.exe.config
+D:\Програмиране\new tasks\StaticElementi\DefiniraneNaKlasGeometry\bin\Debug\DefiniraneNaKlasGeometry.exe
+D:\Програмиране\new tasks\StaticElementi\DefiniraneNaKlasGeometry\bin\Debug\DefiniraneNaKlasGeometry.pdb
+D:\Програмиране\new tasks\StaticElementi\DefiniraneNaKlasGeometry\obj\Debug\DefiniraneNaKlasGeometry.csproj.AssemblyReference.cache
+D:\Програмиране\new tasks\StaticElementi\DefiniraneNaKlasGeometry\obj\Debug\DefiniraneNaKlasGeometry.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\new tasks\StaticElementi\DefiniraneNaKlasGeometry\obj\Debug\DefiniraneNaKlasGeometry.csproj.CoreCompileInputs.cache
+D:\Програмиране\new tasks\StaticElementi\DefiniraneNaKlasGeometry\obj\Debug\DefiniraneNaKlasGeometry.exe
+D:\Програмиране\new tasks\StaticElementi\DefiniraneNaKlasGeometry\obj\Debug\DefiniraneNaKlasGeometry.pdb
